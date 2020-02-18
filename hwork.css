@@ -1,0 +1,53 @@
+header{
+    background-color: green;
+    text-align: center;
+    padding: 1em;
+    height: 100px;
+    grid-gap: 1em;
+    border-radius: 6px;
+}
+section{
+    background-color: greenyellow;
+    text-align: center;
+    margin: 1em 0% 1em;
+    display: block;
+    height: 300px;
+    padding: 1em;
+    width: 65;
+    border-radius: 6px;
+
+    
+    
+
+}
+aside{
+    background-color: hotpink;
+    text-align: center;
+    margin: 1em 0% 1em;
+    display: block;
+    height: 300px;
+    padding: 1em;
+    width: 35;
+    border-radius: 6px;
+    
+    
+}
+footer{
+    background-color: indigo;
+    text-align: center;
+    margin: 1em 0% 1em;
+    display: block;
+    height: 85px;
+    padding: 1em;
+    border-radius: 6px;
+}
+.one{
+    display: grid;
+    grid-template-columns: 70% 29%;
+    grid-column-gap: 1em;
+    width: 65 33;
+    
+}
+
+
+
